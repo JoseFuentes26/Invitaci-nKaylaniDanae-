@@ -2504,7 +2504,7 @@ button {
 
 @media (hover: none) {
 
-    .button:hover,
+    .button:hover,  
     .map-link:hover,
     .music-button:hover {
 
